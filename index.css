@@ -1,0 +1,53 @@
+.main{
+    font-family: 'Oswald', sans-serif;
+    background-color: #CCD6A6;
+}
+.head{
+    margin-top: 2rem;
+}
+.iconheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.countries{
+    text-align: center;
+    background-color: #FFFBE9 ;
+    width: 50%;
+    margin: 2rem;
+    box-shadow: #fefbee 0px 2px 4px 0px, #fbf9ed 0px 2px 16px 0px;
+    
+}
+.button{
+    border-color:#ffd392;
+    background-color:#ffe6c1  ;
+    border-radius: 15px;
+    
+}
+.button:hover{
+    background-color: #FFDCA9 ;
+}
+#input{
+    background-color:#f9dcb2c7 ;
+    border-radius: 10px;
+    height:2.5rem;
+    border-color:#ba935ed0 ;
+    padding-left: 1rem;
+}
+.countrycard{
+    margin: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#cardbgcolor{
+    background-color:#fffdf6;
+    
+}
+
+.alert{
+    background-color: rgba(239, 130, 130, 0.69);
+    text-align: center;
+    margin: 3rem;
+}
